@@ -1,0 +1,16 @@
+*~
+bitbake.lock
+
+conf/bblayers.conf
+conf/sanity_info
+
+cache
+downloads
+pseudodone
+sstate-cache
+tmp*
+
+package-depends.dot
+pn-buildlist
+pn-depends.dot
+task-depends.dot
