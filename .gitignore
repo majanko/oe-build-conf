@@ -1,7 +1,6 @@
 *~
 bitbake.lock
 
-conf/bblayers.conf
 conf/sanity_info
 
 cache
